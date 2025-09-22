@@ -1,6 +1,8 @@
 # Buddip
 ### “당신의 여행, 진짜 로컬과 함께하다.”
 
+https://buddit-git-main-nas-projects-f6a5b59f.vercel.app?_vercel_share=357r6fuuUSV2oZsWN41sgBV4Lr5H1UcA
+
 ## 목차
 1. [문제 정의 (Problem)](#문제-정의-problem)
 2. [현장 조사 (Interview Insights)](#현장-조사-interview-insights)
